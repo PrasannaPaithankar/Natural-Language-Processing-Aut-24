@@ -1,3 +1,13 @@
+*.zip
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.synctex.gz\(busy\)
+*.synctex\(busy\)
+*.log
+*.aux
+*.out
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
